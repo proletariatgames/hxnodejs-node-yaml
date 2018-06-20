@@ -1,0 +1,14 @@
+{
+  "name": "hxnodejs-node-yaml",
+  "url": "https://github.com/proletariatgames/hxnodejs-node-yaml",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "yaml"],
+  "description": "Externs for the node-yaml NPM module",
+  "releasenote": "Initial release",
+  "version": "3.1.0-alpha",
+  "contributors": ["Proletariat", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs": ""
+  }
+}
