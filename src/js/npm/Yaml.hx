@@ -1,6 +1,10 @@
 package js.npm;
 import haxe.extern.EitherType;
+#if haxe4
 import js.lib.Error;
+#else
+import js.Error;
+#end
 
 @:jsRequire('node-yaml')
 extern class Yaml {

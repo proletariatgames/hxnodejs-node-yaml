@@ -6,8 +6,8 @@
   "tags": ["nodejs", "yaml"],
   "description": "Externs for the node-yaml NPM module",
   "releasenote": "Initial release",
-  "version": "3.1.0-alpha",
-  "contributors": ["Proletariat", "danogles", "waneck"],
+  "version": "3.1.1",
+  "contributors": ["Proletariat", "ProletariatDev1"],
   "dependencies": {
     "hxnodejs": ""
   }
